@@ -19,7 +19,6 @@ dependencies {
 	compile("org.springframework.boot:spring-boot-starter-web")
 	testCompile("junit:junit")
 
-
 	// https://projectlombok.org
 	compileOnly 'org.projectlombok:lombok:1.18.4'
 	annotationProcessor 'org.projectlombok:lombok:1.18.4'
