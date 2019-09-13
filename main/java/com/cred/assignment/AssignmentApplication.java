@@ -10,7 +10,7 @@ public class AssignmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AssignmentApplication.class,args);
-        log.info("The Server is Up and Running!");
+        	log.info("The Server is Up and Running!");
 	}
 
 }
