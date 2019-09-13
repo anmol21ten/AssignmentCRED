@@ -12,3 +12,4 @@ change from Coindesk to any other API, the Service layer implements an interface
 The assignment is done in Java using Spring Boot.
 Jackson Library used to deal with JSON objects.
 Lombok library used to generate boilerplate code : setters, getters etc.
+Gradle for managing libraries.
